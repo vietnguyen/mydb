@@ -1,0 +1,4 @@
+This project is my assignment in C++ course
+The aim is to build a simple database engine using C++
+User can enter SQL query on command line
+The engine should allow user to create table, select, update and delete record.
