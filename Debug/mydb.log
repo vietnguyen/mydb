@@ -1,0 +1,8 @@
+﻿Build started 2011-11-08 11:48:11 PM.
+     1>Project "W:\RMIT\sem3\C++\Cworkspace\mydb\mydb.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.MakeFile.Targets(37,5): warning MSB8005: The property 'NMakeBuildCommandLine' doesn't exist.  Skipping...
+     1>Done Building Project "W:\RMIT\sem3\C++\Cworkspace\mydb\mydb.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
